@@ -4,7 +4,7 @@ void main() {
   runApp(MaterialApp(
     home: Scaffold(
       appBar: AppBar(
-        title: Text("Rows and Columns"),
+        title: Text("Rows and Column"),
 
       ),
       body: MyWidget(),
